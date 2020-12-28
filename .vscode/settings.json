@@ -1,0 +1,41 @@
+{
+    "workbench.colorCustomizations": {
+        // "editorGroupHeader.tabsBackground": "#1a1a1a",
+        // "tab.inactiveBackground": "#272525",
+        // "tab.activeBackground": "#252424",
+        // "breadcrumb.background": "#252424",
+        // "dropdown.background": "#272525",
+        // "input.background": "#272525",
+        // "input.placeholderForeground": "#b1b1b1",
+        // "sideBarSectionHeader.background": "#252424",
+        // "tab.activeBorderTop": "#0a9b02",
+        // "badge.background": "#ff0000",
+        // "welcomePage.background": "#1a1a1a",
+        // "progressBar.background": "#0a9b02",
+        // "breadcrumbPicker.background": "#1a1a1a",
+        // "button.background": "#272525",
+        // "list.hoverBackground": "#252424",
+        // "list.activeSelectionBackground": "#353333",
+        // "editor.selectionBackground": "#3d3d3d",
+        
+
+        
+
+        
+        // "activityBar.background": "#252424",
+        // "activityBar.activeBorder": "#0a9b02",
+        
+        // "sideBar.background": "#000000",
+        // "sideBar.border": "#000000",
+        // "sideBar.foreground": "#ffffff",
+        // "editor.background": "#1a1a1a",
+        
+        // "panel.background": "#1a1a1a",
+        // "panel.border": "#0a9b02",
+        // "panelTitle.activeBorder": "#0a9b02",
+        
+        // "terminal.background": "#1a1a1a",
+        
+        // "statusBar.background": "#086903",
+    }
+}
